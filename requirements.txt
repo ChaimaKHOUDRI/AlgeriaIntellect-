@@ -1,0 +1,11 @@
+streamlit
+pandas
+re
+ast
+networkx
+matplotlib.pyplot
+firebase_admin
+credentials
+firestore
+uuid
+os
