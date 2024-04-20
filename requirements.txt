@@ -1,7 +1,7 @@
 streamlit
 pandas
 networkx
-matplotlib.pyplot
+matplotlib
 firebase_admin
 uuid
 os
